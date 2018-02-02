@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Reddit Sample</string>
+    <string name="r_android">r/Android</string>
+    <string name="problem_generic">"Sorry… \n something happened, \n try again later."</string>
+    <string name="share">Share</string>
+    <string name="comments">comments</string>
+    <string name="score">score</string>
+    <string name="period">.</string>
+    <string name="choose_a_option">Choose a option</string>
+    <string name="search">search</string>
+    <string name="line">-</string>
+    <string name="ops_no_comments">Ops! No comments</string>
+    <string name="ops_no_posts">Ops! No posts \n try again later.</string>
+    <string name="loading_comments">Loading comments…</string>
+    <string name="to_go_to_the_original_post">go to original post</string>
+</resources>
